@@ -15,8 +15,8 @@ public class CalcPi {
             }
             mehane+=2;
         }
-        System.out.println("pi according to java: "+ Math.PI);
-        System.out.println("pi,approxmated:       "+pi*4);
+        System.out.println("pi according to Java: "+ Math.PI);
+        System.out.println("pi, approxmated:       "+pi*4);
     }
 
 }

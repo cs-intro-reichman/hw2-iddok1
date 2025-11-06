@@ -17,14 +17,14 @@ public class Cheers {
             caps +=c;
             if(ch.indexOf(c)!=-1)
             {
-                System.out.println("give me an "+c+ ": "+c+"!");
+                System.out.println("Give me an "+c+ ": "+c+"!");
             }
             else
             {
-                System.out.println("give me a  "+c+ ": "+c+"!");
+                System.out.println("Give me a  "+c+ ": "+c+"!");
             }
         }
-            System.out.println("what does that spell?");
+            System.out.println("What does that spell?");
             for(int i=0;i<n;i++)
             {
                 System.out.println(caps +"!!!");
